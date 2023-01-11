@@ -1,2 +1,2 @@
-# tech
+# Tech
 anything
