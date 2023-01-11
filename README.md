@@ -1,2 +1,2 @@
-# thech
+# tech
 anything
